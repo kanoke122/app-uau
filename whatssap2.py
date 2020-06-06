@@ -1,5 +1,8 @@
 arquivo = open("Dados.txt", "a")
 
+
+
+
 from selenium import webdriver
 import time
 from tkinter import *
